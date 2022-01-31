@@ -45,7 +45,7 @@ export default class Command extends BaseCommand {
 🌈 ${this.client.config.prefix}ʀʜᴇɴᴛᴀɪ 
 🌈 ${this.client.config.prefix}ᴛʜɪɢʜꜱ
 
-•━━━ ✽ • ✽ ━━━•`,
+•━━━ ✽ By chey🌈 ✽ ━━━•`,
 			}
 		);
 	};
